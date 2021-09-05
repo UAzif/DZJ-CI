@@ -52,6 +52,9 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
+                    <execution>
+                        <id>check</id>
+                    </execution>
                 </executions>
             </plugin>
         </plugins>
